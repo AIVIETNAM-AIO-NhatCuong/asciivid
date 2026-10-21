@@ -69,4 +69,4 @@ python -m pytest
 ## Project format
 
 `.asciivideo` is a JSON manifest storing the source path, `AppSettings`, and
-video metadata so a conversion can be reopened, edited, and re-exported. This project is inspired by my GF Juliette Ngon Pham <3
+video metadata so a conversion can be reopened, edited, and re-exported. This project is inspired by my GF Juliette Ngoc Pham <3
