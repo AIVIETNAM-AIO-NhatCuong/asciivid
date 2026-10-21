@@ -1,0 +1,10 @@
+opencv-python==4.10.0.84
+numpy==1.26.4
+Pillow==10.4.0
+
+# ffmpeg is an EXTERNAL dependency (not pip-installable here).
+# Install it separately: https://ffmpeg.org/download.html
+# On Windows, asciivid auto-detects ffmpeg at:
+#   C:\ffmpeg\bin\ffmpeg.exe
+#   C:\Program Files\ffmpeg\bin\ffmpeg.exe
+# or anywhere on PATH. ffplay (alongside ffmpeg) enables live audio.
